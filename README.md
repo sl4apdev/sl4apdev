@@ -1,56 +1,28 @@
+<!-- ==================== SOBRE MIM ==================== -->
+## 👨‍💻 Sobre Mim  
+
 <p align="center">
-  <a href="https://github.com/sl4pdev">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  💻 Sou estudante de <b>Ciência da Computação na Universidade de Cruz Alta</b>, apaixonado por tecnologia e por tudo que envolve <b>criar, entender e aprimorar sistemas</b>.<br><br>
+  Atualmente, desenvolvo soluções web com <b>React, TypeScript, JavaScript, Tailwind, Node.js, Express</b> e bancos de dados.<br>
+  Mas meu interesse vai muito além do desenvolvimento web: estudo a fundo <b>C e Python</b>, pois valorizo tanto a clareza e produtividade das linguagens de alto nível quanto o controle próximo ao hardware que o C proporciona.<br>
+  Também exploro <b>Assembly e Arquitetura de Computadores</b>, porque acredito que compreender as camadas mais próximas da máquina é essencial para dominar o funcionamento real do software.<br><br>
+
+  🐧 Minha paixão não se limita ao código: sou entusiasta de <b>sistemas operacionais, Unix-like (Linux, BSDs)</b> e da <b>filosofia open source</b>.<br>
+  Não apenas pelo acesso ao código, mas pela ideia de ferramentas <b>abertas, colaborativas e transformadoras</b>.<br><br>
+
+  📚 Grande parte do meu aprendizado é <b>autodidata</b>. A faculdade oferece a base, mas não dita meu ritmo.<br>
+  Corro atrás do conhecimento porque quero <b>resolver problemas reais</b>. Para mim, programar não é só escrever código: é <b>questionar, desmontar e reconstruir</b>, sempre em busca de soluções melhores.<br><br>
+
+  ⚡ Em resumo: gosto de resolver problemas em qualquer camada — do <b>algoritmo ao hardware, do front-end ao sistema operacional</b>.  
+</p>
+
+<p align="center">
+  <i>✨ Vida longa ao Open Source! ✨</i>
+</p>
+
+<p align="center">
+  <!-- Botão Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/sl4apdev" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
-
-<h1 align="center">Olá, eu sou o sl4pdev 👋</h1>
-
-<p align="center">
-  <em>Estudante de Ciência da Computação e futuro dev fullstack. No meu tempo livre, minha especialidade é transformar linhas de código em ferramentas que melhoram sua vida, do terminal Linux a qualquer outra tela.
-  <br>
-  <strong>Vida longa ao Open Source!</strong></em>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sl4pdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sl4apdev&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sl4apdev&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-### 🛠️ Minhas Ferramentas e Tecnologias
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,electron,nodejs,js,html,css,python,django,react,docker,git&perline=6" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
-### 🌎 Onde me encontrar
-
-<p align="center">
-<a href="https://github.com/sl4apdev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
